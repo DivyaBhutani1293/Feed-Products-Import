@@ -1,0 +1,14 @@
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.exe
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.deps.json
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.runtimeconfig.json
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.runtimeconfig.dev.json
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.dll
+D:\GartnerTest\Feed-Products\Import\Import\bin\Debug\netcoreapp2.1\win10-x64\Import.pdb
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.csprojAssemblyReference.cache
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.csproj.CoreCompileInputs.cache
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.AssemblyInfoInputs.cache
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.AssemblyInfo.cs
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.dll
+D:\GartnerTest\Feed-Products\Import\Import\obj\Debug\netcoreapp2.1\win10-x64\Import.pdb
